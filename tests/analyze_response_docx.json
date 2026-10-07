@@ -1,0 +1,225 @@
+{
+  "status": "success",
+  "filename": "sample_test.docx",
+  "word_count": 52,
+  "extracted_text": "Aarav Sharma\naarav.sharma24@gmail.com | +91 98765 43210 | Bengaluru, India\nSummary\nExperienced Full Stack Developer with 4 years in React and Python.\nTechnical Skills\nReact, Python, Node.js, SQL, Docker, AWS\nWork Experience\nSoftware Engineer at TechCorp. Built scalable microservices and reduced latency by 30%.\nEducation\nB.Tech in Computer Science, 2020. CGPA 8.5/10",
+  "target_job": {
+    "title": "Senior Full Stack Developer",
+    "years_experience": 3.0,
+    "description_length": 281
+  },
+  "sections": {
+    "sections": {
+      "Contact": true,
+      "contact": true,
+      "Summary": true,
+      "summary": true,
+      "Skills": true,
+      "skills": true,
+      "Experience": true,
+      "experience": true,
+      "Projects": false,
+      "projects": false,
+      "Education": true,
+      "education": true,
+      "Certifications": false,
+      "certifications": false,
+      "Achievements": false,
+      "achievements": false,
+      "Activities": false,
+      "activities": false,
+      "Declaration": false,
+      "declaration": false
+    },
+    "present": [
+      "Contact",
+      "Summary",
+      "Skills",
+      "Experience",
+      "Education"
+    ],
+    "missing": [
+      "Projects",
+      "Certifications",
+      "Achievements",
+      "Activities",
+      "Declaration"
+    ],
+    "education_details": {
+      "degrees": [
+        "B.Tech"
+      ],
+      "cgpa": "8.5",
+      "percentage": null,
+      "cgpa_or_percentage": "8.5",
+      "boards": [],
+      "competitive_exams_or_hackathons": []
+    }
+  },
+  "contact_info": {
+    "email": "aarav.sharma24@gmail.com",
+    "phone": "+91 98765 43210",
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "skills": {
+    "matched": [
+      {
+        "name": "AWS",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "Docker",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "Full Stack Developer",
+        "category": "Professional Roles"
+      },
+      {
+        "name": "JavaScript",
+        "category": "Programming Languages"
+      },
+      {
+        "name": "Microservices",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Node.js",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Python",
+        "category": "Programming Languages"
+      },
+      {
+        "name": "React",
+        "category": "Web & Frontend"
+      },
+      {
+        "name": "SQL",
+        "category": "Programming Languages"
+      }
+    ],
+    "missing": [
+      {
+        "name": "FastAPI",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Git",
+        "category": "Tools & Methodologies"
+      }
+    ],
+    "extra": [
+      {
+        "name": "Software Engineer",
+        "category": "Professional Roles"
+      }
+    ],
+    "stats": {
+      "matched_count": 9,
+      "missing_count": 2,
+      "extra_count": 1,
+      "total_required": 11,
+      "match_rate": 81.8
+    }
+  },
+  "ats": {
+    "score": 75,
+    "passed_count": 6,
+    "total_checks": 8,
+    "keyword_coverage_pct": 60.0,
+    "checks": [
+      {
+        "id": "section_headings",
+        "name": "Standard Section Headings",
+        "status": "pass",
+        "message": "All essential sections (Contact, Experience/Internships, Education, Skills) are clearly recognized.",
+        "impact": "High"
+      },
+      {
+        "id": "contact_info",
+        "name": "Contact Information",
+        "status": "pass",
+        "message": "Professional contact details verified: Phone (+91 98765 43210) and Email.",
+        "impact": "High"
+      },
+      {
+        "id": "action_verbs",
+        "name": "Strong Action Verbs",
+        "status": "warn",
+        "message": "Only 0 bullets use strong action verbs. Begin experience bullets with active verbs rather than passive duties.",
+        "impact": "Medium"
+      },
+      {
+        "id": "quantified_metrics",
+        "name": "Quantified Achievements & Metrics",
+        "status": "pass",
+        "message": "Resume effectively demonstrates impact with measurable numbers and performance data (including academic CGPA/percentage: 8.5).",
+        "impact": "Medium"
+      },
+      {
+        "id": "word_count",
+        "name": "Document Length & Page Count",
+        "status": "warn",
+        "message": "Resume is brief (52 words). Expand on project details, technologies used, and responsibilities.",
+        "impact": "Low"
+      },
+      {
+        "id": "paragraph_length",
+        "name": "Paragraph Readability",
+        "status": "pass",
+        "message": "All bullet points and descriptions are concise (under 60 words each), ensuring fast human and ATS reading.",
+        "impact": "Low"
+      },
+      {
+        "id": "biodata_check",
+        "name": "Fair Screening & Anti-Bias Formatting",
+        "status": "pass",
+        "message": "Clean modern format: no personal biodata fields (photo, date of birth, marital status, or father's name) detected.",
+        "impact": "Medium"
+      },
+      {
+        "id": "keyword_coverage",
+        "name": "Target Keyword Coverage",
+        "status": "pass",
+        "message": "Strong vocabulary alignment: 60.0% of core target job keywords found throughout the resume.",
+        "impact": "High"
+      }
+    ]
+  },
+  "scores": {
+    "overall_score": 66,
+    "label": "Fair",
+    "summary": "Moderate fit. Bridging missing technical keywords and tuning bullet points will substantially improve your rating.",
+    "sub_scores": {
+      "skill_match": 81.8,
+      "text_similarity": 26.5,
+      "structure_completeness": 71.4,
+      "ats_quality": 75.0
+    },
+    "weights": {
+      "skill_match": 50,
+      "text_similarity": 25,
+      "structure_completeness": 15,
+      "ats_quality": 10
+    },
+    "weighted_points": {
+      "skill_match": 40.9,
+      "text_similarity": 6.6,
+      "structure_completeness": 10.7,
+      "ats_quality": 7.5
+    },
+    "max_points": {
+      "skill_match": 50.0,
+      "text_similarity": 25.0,
+      "structure_completeness": 15.0,
+      "ats_quality": 10.0
+    },
+    "formula_text": "Overall 66 = 50% x 81.8 + 25% x 26.5 + 15% x 71.4 + 10% x 75.0"
+  },
+  "ai_feedback": null,
+  "is_ai_enabled": false
+}

@@ -1,0 +1,2518 @@
+[
+  {
+    "name": "Python",
+    "category": "Programming Languages",
+    "aliases": [
+      "python",
+      "py",
+      "python3"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "JavaScript",
+    "category": "Programming Languages",
+    "aliases": [
+      "javascript",
+      "js",
+      "es6",
+      "ecmascript"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "TypeScript",
+    "category": "Programming Languages",
+    "aliases": [
+      "typescript",
+      "ts"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Java",
+    "category": "Programming Languages",
+    "aliases": [
+      "java",
+      "core java",
+      "j2ee"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "C++",
+    "category": "Programming Languages",
+    "aliases": [
+      "c++",
+      "cpp"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "C#",
+    "category": "Programming Languages",
+    "aliases": [
+      "c#",
+      "csharp",
+      "c sharp"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "C",
+    "category": "Programming Languages",
+    "aliases": [
+      "c language"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Go",
+    "category": "Programming Languages",
+    "aliases": [
+      "golang",
+      "go language"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Rust",
+    "category": "Programming Languages",
+    "aliases": [
+      "rust",
+      "rustlang"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "PHP",
+    "category": "Programming Languages",
+    "aliases": [
+      "php",
+      "php7",
+      "php8"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Ruby",
+    "category": "Programming Languages",
+    "aliases": [
+      "ruby",
+      "ruby on rails"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Swift",
+    "category": "Programming Languages",
+    "aliases": [
+      "swift",
+      "swiftui"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Kotlin",
+    "category": "Programming Languages",
+    "aliases": [
+      "kotlin"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Dart",
+    "category": "Programming Languages",
+    "aliases": [
+      "dart"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "R",
+    "category": "Programming Languages",
+    "aliases": [
+      "r programming",
+      "r language"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Scala",
+    "category": "Programming Languages",
+    "aliases": [
+      "scala"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Shell Scripting",
+    "category": "Programming Languages",
+    "aliases": [
+      "bash",
+      "shell",
+      "powershell",
+      "zsh",
+      "sh"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SQL",
+    "category": "Programming Languages",
+    "aliases": [
+      "sql",
+      "t-sql",
+      "pl/sql"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "HTML5",
+    "category": "Web & Frontend",
+    "aliases": [
+      "html",
+      "html5"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "CSS3",
+    "category": "Web & Frontend",
+    "aliases": [
+      "css",
+      "css3"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "React",
+    "category": "Web & Frontend",
+    "aliases": [
+      "react",
+      "react.js",
+      "reactjs"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Next.js",
+    "category": "Web & Frontend",
+    "aliases": [
+      "next.js",
+      "nextjs",
+      "next"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Vue.js",
+    "category": "Web & Frontend",
+    "aliases": [
+      "vue",
+      "vue.js",
+      "vuejs"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Nuxt.js",
+    "category": "Web & Frontend",
+    "aliases": [
+      "nuxt",
+      "nuxt.js",
+      "nuxtjs"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Angular",
+    "category": "Web & Frontend",
+    "aliases": [
+      "angular",
+      "angularjs",
+      "angular 2+"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Svelte",
+    "category": "Web & Frontend",
+    "aliases": [
+      "svelte",
+      "sveltekit"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "Web & Frontend",
+    "aliases": [
+      "tailwind",
+      "tailwindcss",
+      "tailwind-css"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Bootstrap",
+    "category": "Web & Frontend",
+    "aliases": [
+      "bootstrap",
+      "bootstrap 5"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Sass/SCSS",
+    "category": "Web & Frontend",
+    "aliases": [
+      "sass",
+      "scss"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Redux",
+    "category": "Web & Frontend",
+    "aliases": [
+      "redux",
+      "redux toolkit",
+      "rtk"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Zustand",
+    "category": "Web & Frontend",
+    "aliases": [
+      "zustand"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Webpack",
+    "category": "Web & Frontend",
+    "aliases": [
+      "webpack"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Vite",
+    "category": "Web & Frontend",
+    "aliases": [
+      "vite",
+      "vitejs"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "GraphQL",
+    "category": "Web & Frontend",
+    "aliases": [
+      "graphql",
+      "apollo client"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "WebSockets",
+    "category": "Web & Frontend",
+    "aliases": [
+      "websocket",
+      "websockets",
+      "socket.io"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Node.js",
+    "category": "Backend & APIs",
+    "aliases": [
+      "node",
+      "node.js",
+      "nodejs"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Express.js",
+    "category": "Backend & APIs",
+    "aliases": [
+      "express",
+      "express.js",
+      "expressjs"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "NestJS",
+    "category": "Backend & APIs",
+    "aliases": [
+      "nestjs",
+      "nest.js"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "FastAPI",
+    "category": "Backend & APIs",
+    "aliases": [
+      "fastapi",
+      "fast-api"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Django",
+    "category": "Backend & APIs",
+    "aliases": [
+      "django",
+      "django rest framework",
+      "drf"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Flask",
+    "category": "Backend & APIs",
+    "aliases": [
+      "flask"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Spring Boot",
+    "category": "Backend & APIs",
+    "aliases": [
+      "spring",
+      "spring boot",
+      "spring framework",
+      "springboot"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "ASP.NET Core",
+    "category": "Backend & APIs",
+    "aliases": [
+      "asp.net",
+      "asp.net core",
+      ".net core",
+      "dotnet core",
+      ".net"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Ruby on Rails",
+    "category": "Backend & APIs",
+    "aliases": [
+      "rails",
+      "ror",
+      "ruby on rails"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Laravel",
+    "category": "Backend & APIs",
+    "aliases": [
+      "laravel"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "gRPC",
+    "category": "Backend & APIs",
+    "aliases": [
+      "grpc",
+      "protobuf"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "RESTful APIs",
+    "category": "Backend & APIs",
+    "aliases": [
+      "rest",
+      "restful",
+      "rest api",
+      "rest apis",
+      "restful apis"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Microservices",
+    "category": "Backend & APIs",
+    "aliases": [
+      "microservices",
+      "microservice architecture"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Celery",
+    "category": "Backend & APIs",
+    "aliases": [
+      "celery"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Kafka",
+    "category": "Backend & APIs",
+    "aliases": [
+      "kafka",
+      "apache kafka"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "RabbitMQ",
+    "category": "Backend & APIs",
+    "aliases": [
+      "rabbitmq",
+      "amqp"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "PostgreSQL",
+    "category": "Databases & Storage",
+    "aliases": [
+      "postgres",
+      "postgresql",
+      "psql"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "MySQL",
+    "category": "Databases & Storage",
+    "aliases": [
+      "mysql"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SQLite",
+    "category": "Databases & Storage",
+    "aliases": [
+      "sqlite",
+      "sqlite3"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "MongoDB",
+    "category": "Databases & Storage",
+    "aliases": [
+      "mongodb",
+      "mongo"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Redis",
+    "category": "Databases & Storage",
+    "aliases": [
+      "redis"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Elasticsearch",
+    "category": "Databases & Storage",
+    "aliases": [
+      "elasticsearch",
+      "elastic search",
+      "opensearch"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Cassandra",
+    "category": "Databases & Storage",
+    "aliases": [
+      "cassandra",
+      "apache cassandra"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "DynamoDB",
+    "category": "Databases & Storage",
+    "aliases": [
+      "dynamodb",
+      "aws dynamodb"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Firebase",
+    "category": "Databases & Storage",
+    "aliases": [
+      "firebase",
+      "firestore"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Supabase",
+    "category": "Databases & Storage",
+    "aliases": [
+      "supabase"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Neo4j",
+    "category": "Databases & Storage",
+    "aliases": [
+      "neo4j",
+      "graph database"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Snowflake",
+    "category": "Databases & Storage",
+    "aliases": [
+      "snowflake"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "BigQuery",
+    "category": "Databases & Storage",
+    "aliases": [
+      "bigquery",
+      "google bigquery"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Amazon Redshift",
+    "category": "Databases & Storage",
+    "aliases": [
+      "redshift",
+      "amazon redshift"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Oracle DB",
+    "category": "Databases & Storage",
+    "aliases": [
+      "oracle db",
+      "oracle database"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SQL Server",
+    "category": "Databases & Storage",
+    "aliases": [
+      "sql server",
+      "ms sql",
+      "mssql"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Docker",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "docker",
+      "docker container",
+      "docker-compose",
+      "containerization"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Kubernetes",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "kubernetes",
+      "k8s"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "AWS",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "aws",
+      "amazon web services",
+      "amazon aws"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "AWS Lambda",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "lambda",
+      "aws lambda",
+      "serverless"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "AWS EC2",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "ec2",
+      "aws ec2"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "AWS S3",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "s3",
+      "aws s3"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "AWS ECS",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "ecs",
+      "aws ecs",
+      "fargate"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Google Cloud",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "gcp",
+      "google cloud",
+      "google cloud platform"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Microsoft Azure",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "azure",
+      "microsoft azure"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Terraform",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "terraform",
+      "iac",
+      "infrastructure as code"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Ansible",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "ansible"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "CI/CD",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "ci/cd",
+      "ci-cd",
+      "continuous integration",
+      "continuous deployment"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "GitHub Actions",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "github actions",
+      "gh actions"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "GitLab CI",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "gitlab ci",
+      "gitlab-ci"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Jenkins",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "jenkins"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "ArgoCD",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "argocd",
+      "argo cd"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Prometheus",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "prometheus"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Grafana",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "grafana"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Nginx",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "nginx"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Linux",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "linux",
+      "ubuntu",
+      "debian",
+      "centos",
+      "redhat"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Machine Learning",
+    "category": "AI / Data Science",
+    "aliases": [
+      "machine learning",
+      "ml"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Deep Learning",
+    "category": "AI / Data Science",
+    "aliases": [
+      "deep learning",
+      "dl"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "category": "AI / Data Science",
+    "aliases": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Natural Language Processing",
+    "category": "AI / Data Science",
+    "aliases": [
+      "natural language processing",
+      "nlp"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Computer Vision",
+    "category": "AI / Data Science",
+    "aliases": [
+      "computer vision",
+      "cv",
+      "opencv"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Large Language Models",
+    "category": "AI / Data Science",
+    "aliases": [
+      "llm",
+      "large language models",
+      "llms",
+      "generative ai",
+      "genai"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "RAG",
+    "category": "AI / Data Science",
+    "aliases": [
+      "rag",
+      "retrieval augmented generation",
+      "retrieval-augmented generation"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Prompt Engineering",
+    "category": "AI / Data Science",
+    "aliases": [
+      "prompt engineering",
+      "prompt design"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "PyTorch",
+    "category": "AI / Data Science",
+    "aliases": [
+      "pytorch",
+      "torch"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "TensorFlow",
+    "category": "AI / Data Science",
+    "aliases": [
+      "tensorflow",
+      "tf"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Keras",
+    "category": "AI / Data Science",
+    "aliases": [
+      "keras"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Scikit-Learn",
+    "category": "AI / Data Science",
+    "aliases": [
+      "scikit-learn",
+      "sklearn"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Pandas",
+    "category": "AI / Data Science",
+    "aliases": [
+      "pandas"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "NumPy",
+    "category": "AI / Data Science",
+    "aliases": [
+      "numpy"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SciPy",
+    "category": "AI / Data Science",
+    "aliases": [
+      "scipy"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Matplotlib",
+    "category": "AI / Data Science",
+    "aliases": [
+      "matplotlib"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Seaborn",
+    "category": "AI / Data Science",
+    "aliases": [
+      "seaborn"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Hugging Face",
+    "category": "AI / Data Science",
+    "aliases": [
+      "huggingface",
+      "hugging face",
+      "transformers"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "LangChain",
+    "category": "AI / Data Science",
+    "aliases": [
+      "langchain"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "LlamaIndex",
+    "category": "AI / Data Science",
+    "aliases": [
+      "llamaindex",
+      "llama-index"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "spaCy",
+    "category": "AI / Data Science",
+    "aliases": [
+      "spacy"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "NLTK",
+    "category": "AI / Data Science",
+    "aliases": [
+      "nltk"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "OpenAI API",
+    "category": "AI / Data Science",
+    "aliases": [
+      "openai",
+      "chatgpt",
+      "gpt-4",
+      "gpt-3.5"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Gemini API",
+    "category": "AI / Data Science",
+    "aliases": [
+      "gemini",
+      "gemini api",
+      "google gemini"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Vector Databases",
+    "category": "AI / Data Science",
+    "aliases": [
+      "vector database",
+      "chroma",
+      "pinecone",
+      "weaviate",
+      "qdrant",
+      "milvus"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Apache Spark",
+    "category": "AI / Data Science",
+    "aliases": [
+      "spark",
+      "pyspark",
+      "apache spark"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Apache Airflow",
+    "category": "AI / Data Science",
+    "aliases": [
+      "airflow",
+      "apache airflow"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Hadoop",
+    "category": "AI / Data Science",
+    "aliases": [
+      "hadoop",
+      "apache hadoop"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "dbt",
+    "category": "AI / Data Science",
+    "aliases": [
+      "dbt",
+      "data build tool"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Data Analysis",
+    "category": "AI / Data Science",
+    "aliases": [
+      "data analysis",
+      "data analytics",
+      "exploratory data analysis",
+      "eda"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Data Visualization",
+    "category": "AI / Data Science",
+    "aliases": [
+      "data visualization",
+      "data viz",
+      "tableau",
+      "power bi",
+      "powerbi"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Statistics",
+    "category": "AI / Data Science",
+    "aliases": [
+      "statistics",
+      "statistical modeling",
+      "hypothesis testing",
+      "a/b testing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Feature Engineering",
+    "category": "AI / Data Science",
+    "aliases": [
+      "feature engineering"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "MLOps",
+    "category": "AI / Data Science",
+    "aliases": [
+      "mlops",
+      "mlflow",
+      "kubeflow",
+      "model deployment"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "ETL",
+    "category": "AI / Data Science",
+    "aliases": [
+      "etl",
+      "elt",
+      "data pipeline",
+      "data pipelines"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "React Native",
+    "category": "Mobile Development",
+    "aliases": [
+      "react native",
+      "react-native"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Flutter",
+    "category": "Mobile Development",
+    "aliases": [
+      "flutter"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "iOS Development",
+    "category": "Mobile Development",
+    "aliases": [
+      "ios",
+      "ios development",
+      "xcode"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Android Development",
+    "category": "Mobile Development",
+    "aliases": [
+      "android",
+      "android development",
+      "android studio"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Jest",
+    "category": "Testing & QA",
+    "aliases": [
+      "jest"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Pytest",
+    "category": "Testing & QA",
+    "aliases": [
+      "pytest"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Cypress",
+    "category": "Testing & QA",
+    "aliases": [
+      "cypress"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Playwright",
+    "category": "Testing & QA",
+    "aliases": [
+      "playwright"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Selenium",
+    "category": "Testing & QA",
+    "aliases": [
+      "selenium",
+      "selenium webdriver"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Unit Testing",
+    "category": "Testing & QA",
+    "aliases": [
+      "unit testing",
+      "unit tests",
+      "unittest",
+      "tdd",
+      "test driven development"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Integration Testing",
+    "category": "Testing & QA",
+    "aliases": [
+      "integration testing",
+      "integration tests"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "End-to-End Testing",
+    "category": "Testing & QA",
+    "aliases": [
+      "e2e",
+      "e2e testing",
+      "end to end testing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Mocha",
+    "category": "Testing & QA",
+    "aliases": [
+      "mocha",
+      "chai"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Postman",
+    "category": "Testing & QA",
+    "aliases": [
+      "postman",
+      "insomnia",
+      "api testing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Git",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "git",
+      "version control"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "GitHub",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "github"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "GitLab",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "gitlab"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Bitbucket",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "bitbucket"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Jira",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "jira",
+      "atlassian"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Confluence",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "confluence"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Agile",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "agile",
+      "agile methodology",
+      "agile development"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Scrum",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "scrum",
+      "sprints",
+      "daily standup"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Kanban",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "kanban"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Figma",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "figma"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "UI/UX Design",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "ui/ux",
+      "ui design",
+      "ux design",
+      "user experience",
+      "user interface"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Object-Oriented Programming",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "oop",
+      "object-oriented programming",
+      "object oriented"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Design Patterns",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "design patterns",
+      "solid principles",
+      "solid"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Data Structures & Algorithms",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "data structures",
+      "algorithms",
+      "dsa"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Clean Code",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "clean code",
+      "code review",
+      "code quality"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "System Design",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "system design",
+      "software architecture",
+      "high level design",
+      "hld",
+      "low level design",
+      "lld"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Cybersecurity",
+    "category": "Security",
+    "aliases": [
+      "security",
+      "cybersecurity",
+      "infosec",
+      "appsec"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "OAuth",
+    "category": "Security",
+    "aliases": [
+      "oauth",
+      "oauth2",
+      "oauth 2.0"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "JWT",
+    "category": "Security",
+    "aliases": [
+      "jwt",
+      "json web token"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SSL/TLS",
+    "category": "Security",
+    "aliases": [
+      "ssl",
+      "tls",
+      "https"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "OWASP",
+    "category": "Security",
+    "aliases": [
+      "owasp",
+      "owasp top 10"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Problem Solving",
+    "category": "Soft Skills",
+    "aliases": [
+      "problem solving",
+      "analytical thinking",
+      "critical thinking"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Communication",
+    "category": "Soft Skills",
+    "aliases": [
+      "communication",
+      "written communication",
+      "verbal communication",
+      "presentation"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Team Collaboration",
+    "category": "Soft Skills",
+    "aliases": [
+      "teamwork",
+      "collaboration",
+      "cross-functional",
+      "team player"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Leadership",
+    "category": "Soft Skills",
+    "aliases": [
+      "leadership",
+      "team lead",
+      "mentorship",
+      "mentoring"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Time Management",
+    "category": "Soft Skills",
+    "aliases": [
+      "time management",
+      "prioritization",
+      "multitasking"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Adaptability",
+    "category": "Soft Skills",
+    "aliases": [
+      "adaptability",
+      "flexibility",
+      "fast learner",
+      "quick learner"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Attention to Detail",
+    "category": "Soft Skills",
+    "aliases": [
+      "attention to detail",
+      "meticulous"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Project Management",
+    "category": "Soft Skills",
+    "aliases": [
+      "project management",
+      "project planning",
+      "scope management"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Stakeholder Management",
+    "category": "Soft Skills",
+    "aliases": [
+      "stakeholder management",
+      "client communication",
+      "client facing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Conflict Resolution",
+    "category": "Soft Skills",
+    "aliases": [
+      "conflict resolution",
+      "negotiation"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Emotional Intelligence",
+    "category": "Soft Skills",
+    "aliases": [
+      "emotional intelligence",
+      "empathy"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Creativity",
+    "category": "Soft Skills",
+    "aliases": [
+      "creativity",
+      "innovation",
+      "innovative thinking"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Decision Making",
+    "category": "Soft Skills",
+    "aliases": [
+      "decision making",
+      "sound judgment"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Customer Focus",
+    "category": "Soft Skills",
+    "aliases": [
+      "customer focus",
+      "customer success",
+      "client satisfaction"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Strategic Thinking",
+    "category": "Soft Skills",
+    "aliases": [
+      "strategic thinking",
+      "business acumen"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Ownership",
+    "category": "Soft Skills",
+    "aliases": [
+      "ownership",
+      "accountability",
+      "self-starter",
+      "initiative"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Web Scraping",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "web scraping",
+      "beautifulsoup",
+      "scrapy",
+      "cheerio"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Regex",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "regex",
+      "regular expressions"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Prisma",
+    "category": "Databases & Storage",
+    "aliases": [
+      "prisma",
+      "prisma orm"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SQLAlchemy",
+    "category": "Databases & Storage",
+    "aliases": [
+      "sqlalchemy"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Mongoose",
+    "category": "Databases & Storage",
+    "aliases": [
+      "mongoose"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "TypeORM",
+    "category": "Databases & Storage",
+    "aliases": [
+      "typeorm"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Drizzle",
+    "category": "Databases & Storage",
+    "aliases": [
+      "drizzle",
+      "drizzle orm"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Elastic APM",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "apm",
+      "application performance monitoring"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Datadog",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "datadog"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "New Relic",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "new relic",
+      "newrelic"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Sentry",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "sentry",
+      "error tracking"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Cloudflare",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "cloudflare",
+      "cdn"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Vercel",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "vercel"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Netlify",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "netlify"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Render",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "render.com",
+      "render"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Heroku",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "heroku"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Webpack",
+    "category": "Web & Frontend",
+    "aliases": [
+      "webpack"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Babel",
+    "category": "Web & Frontend",
+    "aliases": [
+      "babel"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "ESLint",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "eslint",
+      "linter",
+      "linting"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Prettier",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "prettier"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Storybook",
+    "category": "Web & Frontend",
+    "aliases": [
+      "storybook"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "PWA",
+    "category": "Web & Frontend",
+    "aliases": [
+      "pwa",
+      "progressive web app"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Responsive Design",
+    "category": "Web & Frontend",
+    "aliases": [
+      "responsive web design",
+      "responsive design",
+      "mobile first"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SEO",
+    "category": "Web & Frontend",
+    "aliases": [
+      "seo",
+      "search engine optimization"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "WCAG / Accessibility",
+    "category": "Web & Frontend",
+    "aliases": [
+      "accessibility",
+      "a11y",
+      "wcag"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "WebAssembly",
+    "category": "Web & Frontend",
+    "aliases": [
+      "webassembly",
+      "wasm"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Three.js",
+    "category": "Web & Frontend",
+    "aliases": [
+      "three.js",
+      "threejs",
+      "webgl"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "D3.js",
+    "category": "Web & Frontend",
+    "aliases": [
+      "d3",
+      "d3.js",
+      "d3js"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Tailwind",
+    "category": "Web & Frontend",
+    "aliases": [
+      "tailwind css",
+      "tailwindcss"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Material UI",
+    "category": "Web & Frontend",
+    "aliases": [
+      "material ui",
+      "mui",
+      "material-ui"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Chakra UI",
+    "category": "Web & Frontend",
+    "aliases": [
+      "chakra ui",
+      "chakra-ui"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Ant Design",
+    "category": "Web & Frontend",
+    "aliases": [
+      "ant design",
+      "antd"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Semantic UI",
+    "category": "Web & Frontend",
+    "aliases": [
+      "semantic ui"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Electron",
+    "category": "Desktop Development",
+    "aliases": [
+      "electron",
+      "electron.js"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Tauri",
+    "category": "Desktop Development",
+    "aliases": [
+      "tauri"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Solidity",
+    "category": "Web3 & Blockchain",
+    "aliases": [
+      "solidity",
+      "smart contracts",
+      "ethereum"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Web3.js",
+    "category": "Web3 & Blockchain",
+    "aliases": [
+      "web3",
+      "web3.js",
+      "ethers.js"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Pydantic",
+    "category": "Backend & APIs",
+    "aliases": [
+      "pydantic"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Uvicorn",
+    "category": "Backend & APIs",
+    "aliases": [
+      "uvicorn"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Gunicorn",
+    "category": "Backend & APIs",
+    "aliases": [
+      "gunicorn"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SQLModel",
+    "category": "Databases & Storage",
+    "aliases": [
+      "sqlmodel"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "PyPDF / pdfplumber",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "pdfplumber",
+      "pypdf",
+      "pdf parsing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "OpenCV",
+    "category": "AI / Data Science",
+    "aliases": [
+      "opencv",
+      "cv2"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "CUDA",
+    "category": "AI / Data Science",
+    "aliases": [
+      "cuda",
+      "gpu computing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "HuggingFace Transformers",
+    "category": "AI / Data Science",
+    "aliases": [
+      "transformers library",
+      "bert",
+      "roberta",
+      "t5"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Fine-Tuning",
+    "category": "AI / Data Science",
+    "aliases": [
+      "fine-tuning",
+      "lora",
+      "qlora",
+      "model fine-tuning"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Evaluation Metrics",
+    "category": "AI / Data Science",
+    "aliases": [
+      "f1-score",
+      "precision",
+      "recall",
+      "auc-roc",
+      "roc curve"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Reinforcement Learning",
+    "category": "AI / Data Science",
+    "aliases": [
+      "reinforcement learning",
+      "rl",
+      "rlhf"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Time Series Analysis",
+    "category": "AI / Data Science",
+    "aliases": [
+      "time series",
+      "arima",
+      "prophet",
+      "forecasting"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Statistical Analysis",
+    "category": "AI / Data Science",
+    "aliases": [
+      "statistical analysis",
+      "multivariate analysis"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "NoSQL",
+    "category": "Databases & Storage",
+    "aliases": [
+      "nosql",
+      "document database",
+      "key-value store"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "RDBMS",
+    "category": "Databases & Storage",
+    "aliases": [
+      "rdbms",
+      "relational database",
+      "acid compliance"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Data Warehousing",
+    "category": "Databases & Storage",
+    "aliases": [
+      "data warehouse",
+      "data warehousing",
+      "olap",
+      "oltp"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Database Indexing",
+    "category": "Databases & Storage",
+    "aliases": [
+      "indexing",
+      "query optimization",
+      "database performance tuning"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Replication & Sharding",
+    "category": "Databases & Storage",
+    "aliases": [
+      "database replication",
+      "sharding",
+      "database clustering"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Event-Driven Architecture",
+    "category": "Backend & APIs",
+    "aliases": [
+      "event-driven",
+      "eda",
+      "event streaming",
+      "event sourcing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Domain-Driven Design",
+    "category": "Tools & Methodologies",
+    "aliases": [
+      "ddd",
+      "domain-driven design",
+      "bounded context"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Test-Driven Development",
+    "category": "Testing & QA",
+    "aliases": [
+      "tdd",
+      "test-driven development"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Behavior-Driven Development",
+    "category": "Testing & QA",
+    "aliases": [
+      "bdd",
+      "cucumber"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Continuous Monitoring",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "continuous monitoring",
+      "observability",
+      "opentelemetry"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Serverless Architecture",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "serverless",
+      "faas",
+      "function as a service"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Load Balancing",
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "load balancing",
+      "load balancer",
+      "haproxy",
+      "alb",
+      "nlb"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "API Gateway",
+    "category": "Backend & APIs",
+    "aliases": [
+      "api gateway",
+      "kong",
+      "aws api gateway"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Rate Limiting",
+    "category": "Backend & APIs",
+    "aliases": [
+      "rate limiting",
+      "throttling"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "CORS",
+    "category": "Web & Frontend",
+    "aliases": [
+      "cors",
+      "cross-origin resource sharing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Session Management",
+    "category": "Security",
+    "aliases": [
+      "sessions",
+      "cookies",
+      "session management",
+      "csrf"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Role-Based Access Control",
+    "category": "Security",
+    "aliases": [
+      "rbac",
+      "abac",
+      "authorization",
+      "authentication",
+      "authn",
+      "authz"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Single Sign-On",
+    "category": "Security",
+    "aliases": [
+      "sso",
+      "saml",
+      "okta",
+      "auth0"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Encryption",
+    "category": "Security",
+    "aliases": [
+      "encryption",
+      "cryptography",
+      "aes",
+      "rsa",
+      "hashing",
+      "bcrypt"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Zero Trust Security",
+    "category": "Security",
+    "aliases": [
+      "zero trust"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Vulnerability Assessment",
+    "category": "Security",
+    "aliases": [
+      "penetration testing",
+      "pen testing",
+      "vulnerability scanning"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Public Speaking",
+    "category": "Soft Skills",
+    "aliases": [
+      "public speaking",
+      "tech talks",
+      "conferencing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Technical Writing",
+    "category": "Soft Skills",
+    "aliases": [
+      "technical writing",
+      "documentation",
+      "api documentation"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Active Listening",
+    "category": "Soft Skills",
+    "aliases": [
+      "active listening"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Critical Reasoning",
+    "category": "Soft Skills",
+    "aliases": [
+      "critical reasoning",
+      "root cause analysis",
+      "troubleshooting"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Tally",
+    "category": "Finance & Business",
+    "aliases": [
+      "tally",
+      "tally prime",
+      "tally erp 9",
+      "tally.erp",
+      "tally erp"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "GST",
+    "category": "Finance & Business",
+    "aliases": [
+      "gst",
+      "goods and services tax",
+      "gst filing",
+      "gst returns",
+      "indirect tax",
+      "gstr"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "SAP",
+    "category": "Enterprise Systems",
+    "aliases": [
+      "sap",
+      "sap erp",
+      "sap fico",
+      "sap mm",
+      "sap sd",
+      "sap hana",
+      "sap abap"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Zoho",
+    "category": "Enterprise Systems",
+    "aliases": [
+      "zoho",
+      "zoho crm",
+      "zoho books",
+      "zoho creator",
+      "zoho suite"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Power BI",
+    "category": "Data & Analytics",
+    "aliases": [
+      "power bi",
+      "powerbi",
+      "dax",
+      "power query",
+      "power bi desktop"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Excel",
+    "category": "Data & Analytics",
+    "aliases": [
+      "excel",
+      "ms excel",
+      "microsoft excel",
+      "advanced excel",
+      "vlookup",
+      "xlookup",
+      "pivot tables"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Salesforce",
+    "category": "Enterprise Systems",
+    "aliases": [
+      "salesforce",
+      "sfdc",
+      "salesforce crm",
+      "apex",
+      "soql"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Software Engineer",
+    "category": "Professional Roles",
+    "aliases": [
+      "software engineer",
+      "sde",
+      "software developer",
+      "sde 1",
+      "sde 2",
+      "sde-1",
+      "sde-2",
+      "systems engineer"
+    ],
+    "type": "role"
+  },
+  {
+    "name": "Data Analyst",
+    "category": "Professional Roles",
+    "aliases": [
+      "data analyst",
+      "data analytics",
+      "business intelligence analyst"
+    ],
+    "type": "role"
+  },
+  {
+    "name": "Business Analyst",
+    "category": "Professional Roles",
+    "aliases": [
+      "business analyst",
+      "ba",
+      "business analysis",
+      "functional analyst",
+      "requirement analysis"
+    ],
+    "type": "role"
+  },
+  {
+    "name": "Full Stack Developer",
+    "category": "Professional Roles",
+    "aliases": [
+      "full stack developer",
+      "full stack engineer",
+      "fullstack developer",
+      "fullstack engineer"
+    ],
+    "type": "role"
+  },
+  {
+    "name": "Digital Marketing",
+    "category": "Marketing & Growth",
+    "aliases": [
+      "digital marketing",
+      "seo",
+      "search engine optimization",
+      "sem",
+      "google ads",
+      "social media marketing",
+      "meta ads",
+      "content marketing"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Customer Support",
+    "category": "Operations & Support",
+    "aliases": [
+      "customer support",
+      "customer success",
+      "technical support",
+      "helpdesk",
+      "client servicing",
+      "bpo",
+      "customer service"
+    ],
+    "type": "skill"
+  },
+  {
+    "name": "Accounting & Auditing",
+    "category": "Finance & Business",
+    "aliases": [
+      "accounting",
+      "financial accounting",
+      "auditing",
+      "tds",
+      "income tax",
+      "balance sheet",
+      "bookkeeping"
+    ],
+    "type": "skill"
+  }
+]

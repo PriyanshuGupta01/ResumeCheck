@@ -1,0 +1,329 @@
+{
+  "status": "success",
+  "filename": "Aarav_Sharma_Resume.pdf",
+  "word_count": 360,
+  "extracted_text": "Aarav Sharma\nBengaluru, Karnataka - 560100 | +91 98765 43210 | aarav.sharma24@gmail.com\nLinkedIn: https://linkedin.com/in/aaravsharma-dev | GitHub: https://github.com/aaravsharma-dev\nPROFESSIONAL SUMMARY\nResults-driven Full Stack Engineer with 3.5+ years of experience architecting resilient web applications, cloud APIs, and\nmicroservices across Indian fintech and SaaS sectors. Proven track record in reducing backend latency by 35% and improving\nsearch indexing performance for over 2M+ active users. Proficient in React, Node.js, Python, PostgreSQL, and AWS.\nTECHNICAL SKILLS\nLanguages: JavaScript (ES6+), TypeScript, Python, SQL, Java, HTML5, CSS3\nFrameworks & Tools:R eact, Next.js, Node.js, FastAPI, Express, Docker, Kubernetes, Git, Power BI\nCloud & Database: AWS (EC2, S3, RDS), PostgreSQL, MongoDB, Redis, REST APIs, Microservices, CI/CD\nWORK EXPERIENCE\nSoftware Engineer | Razorpay Software Pvt. Ltd. July 2022 - Present\nBengaluru, Karnataka | Package: INR 22 LPA\n- Architected scalable merchant checkout and payment integration microservices processing over 450,000 transactions daily.\n- Optimized frontend asset bundles using code splitting and lazy loading in React 18, cutting page load time by 40%.\n- Collaborated with product, QA, and security teams across Bengaluru and Pune development hubs.\nAssociate Software Developer | Infosys Limited August 2020 - June 2022\nPune, Maharashtra\n- Built enterprise client portals with React, Redux Toolkit, and RESTful APIs with 99.8% uptime.\n- Integrated automated unit and integration tests using Jest and Docker, improving sprint velocity by 25%.\n- Awarded Insta Award for excellence in agile software delivery.\nPROJECTS\nUPI PayTrack - Open Source Real-Time Payment Analytics\n- Built a full-stack telemetry platform analyzing UPI failure trends with FastAPI, React, and Redis.\n- Containerized using Docker and deployed on AWS EC2, serving 1,500+ active weekly developers across India.\nLogistics Route Planner (Smart India Hackathon Finalist)\n- Engineered a delivery vehicle routing algorithm cutting delivery fuel costs by 22% for express couriers.\nEDUCATION\nB.Tech in Computer Science and Engineering CGPA: 8.85 / 10\nNational Institute of Technology Karnataka (NITK), Surathkal | 2016 - 2020\nClass XII (CBSE Board) - Delhi Public School | 93.8%\nClass X (CBSE Board) - Delhi Public School | 94.4%\nCERTIFICATIONS & ACHIEVEMENTS\n- AWS Certified Solutions Architect - Associate\n- Smart India Hackathon Finalist (Top 5 Nationwide)\n- NPTEL Elite Gold Certification in Cloud Computing",
+  "target_job": {
+    "title": "Senior Full Stack Developer",
+    "years_experience": 3.0,
+    "description_length": 281
+  },
+  "sections": {
+    "sections": {
+      "Contact": true,
+      "contact": true,
+      "Summary": true,
+      "summary": true,
+      "Skills": true,
+      "skills": true,
+      "Experience": true,
+      "experience": true,
+      "Projects": true,
+      "projects": true,
+      "Education": true,
+      "education": true,
+      "Certifications": false,
+      "certifications": false,
+      "Achievements": false,
+      "achievements": false,
+      "Activities": false,
+      "activities": false,
+      "Declaration": false,
+      "declaration": false
+    },
+    "present": [
+      "Contact",
+      "Summary",
+      "Skills",
+      "Experience",
+      "Projects",
+      "Education"
+    ],
+    "missing": [
+      "Certifications",
+      "Achievements",
+      "Activities",
+      "Declaration"
+    ],
+    "education_details": {
+      "degrees": [
+        "B.Tech"
+      ],
+      "cgpa": "8.85",
+      "percentage": "99.8%",
+      "cgpa_or_percentage": "8.85",
+      "boards": [
+        "CBSE"
+      ],
+      "competitive_exams_or_hackathons": [
+        "Smart India Hackathon",
+        "Nptel"
+      ]
+    }
+  },
+  "contact_info": {
+    "email": "aarav.sharma24@gmail.com",
+    "phone": "+91 98765 43210",
+    "linkedin": "https://linkedin.com/in/aaravsharma-dev",
+    "github": "https://github.com/aaravsharma-dev",
+    "portfolio": null
+  },
+  "skills": {
+    "matched": [
+      {
+        "name": "AWS",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "Docker",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "FastAPI",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Full Stack Developer",
+        "category": "Professional Roles"
+      },
+      {
+        "name": "Git",
+        "category": "Tools & Methodologies"
+      },
+      {
+        "name": "JavaScript",
+        "category": "Programming Languages"
+      },
+      {
+        "name": "Microservices",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Node.js",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Python",
+        "category": "Programming Languages"
+      },
+      {
+        "name": "React",
+        "category": "Web & Frontend"
+      },
+      {
+        "name": "SQL",
+        "category": "Programming Languages"
+      }
+    ],
+    "missing": [],
+    "extra": [
+      {
+        "name": "AWS EC2",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "AWS S3",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "Agile",
+        "category": "Tools & Methodologies"
+      },
+      {
+        "name": "CI/CD",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "CSS3",
+        "category": "Web & Frontend"
+      },
+      {
+        "name": "Cybersecurity",
+        "category": "Security"
+      },
+      {
+        "name": "Data Visualization",
+        "category": "AI / Data Science"
+      },
+      {
+        "name": "Database Indexing",
+        "category": "Databases & Storage"
+      },
+      {
+        "name": "Express.js",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "GitHub",
+        "category": "Tools & Methodologies"
+      },
+      {
+        "name": "HTML5",
+        "category": "Web & Frontend"
+      },
+      {
+        "name": "Integration Testing",
+        "category": "Testing & QA"
+      },
+      {
+        "name": "Java",
+        "category": "Programming Languages"
+      },
+      {
+        "name": "Jest",
+        "category": "Testing & QA"
+      },
+      {
+        "name": "Kubernetes",
+        "category": "Cloud & DevOps"
+      },
+      {
+        "name": "MongoDB",
+        "category": "Databases & Storage"
+      },
+      {
+        "name": "Next.js",
+        "category": "Web & Frontend"
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "Databases & Storage"
+      },
+      {
+        "name": "Power BI",
+        "category": "Data & Analytics"
+      },
+      {
+        "name": "R",
+        "category": "Programming Languages"
+      },
+      {
+        "name": "RESTful APIs",
+        "category": "Backend & APIs"
+      },
+      {
+        "name": "Redis",
+        "category": "Databases & Storage"
+      },
+      {
+        "name": "Redux",
+        "category": "Web & Frontend"
+      },
+      {
+        "name": "SSL/TLS",
+        "category": "Security"
+      },
+      {
+        "name": "Software Engineer",
+        "category": "Professional Roles"
+      },
+      {
+        "name": "TypeScript",
+        "category": "Programming Languages"
+      }
+    ],
+    "stats": {
+      "matched_count": 11,
+      "missing_count": 0,
+      "extra_count": 26,
+      "total_required": 11,
+      "match_rate": 100.0
+    }
+  },
+  "ats": {
+    "score": 100,
+    "passed_count": 8,
+    "total_checks": 8,
+    "keyword_coverage_pct": 70.0,
+    "checks": [
+      {
+        "id": "section_headings",
+        "name": "Standard Section Headings",
+        "status": "pass",
+        "message": "All essential sections (Contact, Experience/Internships, Education, Skills) are clearly recognized.",
+        "impact": "High"
+      },
+      {
+        "id": "contact_info",
+        "name": "Contact Information",
+        "status": "pass",
+        "message": "Professional contact details verified: Phone (+91 98765 43210) and Email with LinkedIn, GitHub.",
+        "impact": "High"
+      },
+      {
+        "id": "action_verbs",
+        "name": "Strong Action Verbs",
+        "status": "pass",
+        "message": "Found 7 bullet points starting with strong action verbs (e.g. Built, Architected, Optimized).",
+        "impact": "Medium"
+      },
+      {
+        "id": "quantified_metrics",
+        "name": "Quantified Achievements & Metrics",
+        "status": "pass",
+        "message": "Resume effectively demonstrates impact with measurable numbers and performance data (including academic CGPA/percentage: 8.85).",
+        "impact": "Medium"
+      },
+      {
+        "id": "word_count",
+        "name": "Document Length & Page Count",
+        "status": "pass",
+        "message": "Optimal length: 360 words (~1 page) fits neatly into the ideal 1-to-2 page industry standard.",
+        "impact": "Low"
+      },
+      {
+        "id": "paragraph_length",
+        "name": "Paragraph Readability",
+        "status": "pass",
+        "message": "All bullet points and descriptions are concise (under 60 words each), ensuring fast human and ATS reading.",
+        "impact": "Low"
+      },
+      {
+        "id": "biodata_check",
+        "name": "Fair Screening & Anti-Bias Formatting",
+        "status": "pass",
+        "message": "Clean modern format: no personal biodata fields (photo, date of birth, marital status, or father's name) detected.",
+        "impact": "Medium"
+      },
+      {
+        "id": "keyword_coverage",
+        "name": "Target Keyword Coverage",
+        "status": "pass",
+        "message": "Strong vocabulary alignment: 70.0% of core target job keywords found throughout the resume.",
+        "impact": "High"
+      }
+    ]
+  },
+  "scores": {
+    "overall_score": 77,
+    "label": "Good",
+    "summary": "Strong alignment with the core requirements. Minor enhancements will maximize ATS ranking.",
+    "sub_scores": {
+      "skill_match": 100.0,
+      "text_similarity": 15.0,
+      "structure_completeness": 85.7,
+      "ats_quality": 100.0
+    },
+    "weights": {
+      "skill_match": 50,
+      "text_similarity": 25,
+      "structure_completeness": 15,
+      "ats_quality": 10
+    },
+    "weighted_points": {
+      "skill_match": 50.0,
+      "text_similarity": 3.8,
+      "structure_completeness": 12.9,
+      "ats_quality": 10.0
+    },
+    "max_points": {
+      "skill_match": 50.0,
+      "text_similarity": 25.0,
+      "structure_completeness": 15.0,
+      "ats_quality": 10.0
+    },
+    "formula_text": "Overall 77 = 50% x 100.0 + 25% x 15.0 + 15% x 85.7 + 10% x 100.0"
+  },
+  "ai_feedback": null,
+  "is_ai_enabled": false
+}

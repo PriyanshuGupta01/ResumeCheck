@@ -1,0 +1,42 @@
+Elena Rostova
+Email: elena.rostova@example.com | Phone: +1-555-987-6543
+LinkedIn: https://linkedin.com/in/elena-rostova-ds | GitHub: https://github.com/erostova-ai
+
+PROFESSIONAL SUMMARY
+Innovative Data Scientist and Machine Learning Engineer with 3+ years of experience developing predictive models, NLP pipelines, and data analytics solutions. Proficient in Python, scikit-learn, PyTorch, pandas, and SQL. Deployed machine learning models into production environments cutting churn by 18% and automated analytics workflows saving 20 hours per week.
+
+TECHNICAL SKILLS
+- Languages: Python, R, SQL
+- Machine Learning & AI: scikit-learn, PyTorch, TensorFlow, NLP (spaCy, NLTK, Hugging Face), LLMs
+- Data Engineering & Analysis: pandas, NumPy, SciPy, Spark, Matplotlib, Seaborn
+- Databases & Cloud: PostgreSQL, Snowflake, AWS (S3, SageMaker), Docker
+- Tools: Jupyter, Git, MLflow, Tableau, Power BI
+
+WORK EXPERIENCE
+Machine Learning Engineer | Lumina Analytics
+January 2022 - Present
+- Developed and deployed end-to-end customer churn prediction pipelines using scikit-learn and XGBoost, improving retention by 18%.
+- Built automated NLP sentiment analysis models analyzing over 50,000 weekly customer reviews with 91% accuracy.
+- Containerized model inference microservices with Docker and deployed them to AWS SageMaker endpoints.
+- Collaborated with product and business stakeholders to design interactive metric dashboards in Tableau.
+
+Data Analyst | Quantum Insights
+July 2020 - December 2021
+- Extracted and cleaned multi-gigabyte datasets from PostgreSQL and Snowflake using SQL and pandas.
+- Performed statistical hypothesis testing and A/B test evaluation to inform product feature decisions.
+- Automated weekly performance reporting pipelines in Python, saving 20 hours of manual reporting every week.
+- Built exploratory visualizations and presentations delivered to executive leadership.
+
+PROJECTS
+- Document Classifier & Summarizer: Created an NLP classification model using PyTorch and Hugging Face transformers with 94% F1-score.
+- Algorithmic Stock Forecaster: Built time-series forecasting models using Python, LSTM, and Prophet to analyze market trends.
+
+EDUCATION
+Master of Science in Data Science
+Pacific Coast University, 2018 - 2020
+Bachelor of Science in Mathematics & Statistics
+State University, 2014 - 2018
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (Coursera / deeplearning.ai)

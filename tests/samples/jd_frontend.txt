@@ -1,0 +1,20 @@
+Job Title: Senior Frontend React Developer
+Company: Apex Cloud Systems
+Location: Remote
+
+About the Role:
+We are looking for a Senior Frontend Developer with strong expertise in React, TypeScript, and Tailwind CSS to lead the development of our flagship cloud dashboard.
+
+Responsibilities:
+- Build modular, highly responsive web interfaces using React, TypeScript, and modern component libraries.
+- Optimize client-side rendering performance, bundle sizes, and Core Web Vitals.
+- Collaborate closely with backend engineers integrating RESTful APIs and GraphQL endpoints.
+- Write comprehensive unit tests using Jest and Cypress to ensure high code quality and reliability.
+- Participate in agile sprint planning, code reviews, and architectural discussions.
+
+Required Skills & Qualifications:
+- 3+ years of professional web development experience with React and TypeScript.
+- Strong proficiency with HTML5, CSS3, Tailwind CSS, and state management (Redux or Zustand).
+- Experience with Docker, Git version control, and CI/CD pipelines.
+- Familiarity with Next.js, Node.js, and automated testing frameworks like Jest or Cypress.
+- Passion for clean code, accessibility standards, and intuitive user experiences.

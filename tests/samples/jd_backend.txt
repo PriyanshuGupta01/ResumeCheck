@@ -1,0 +1,20 @@
+Job Title: Senior Backend Engineer (Python / FastAPI)
+Company: Nexus Cloud Platform
+Location: Remote / Hybrid
+
+About the Role:
+We are seeking an experienced Senior Backend Engineer to architect, build, and maintain high-performance microservices and cloud infrastructure. You will work on scalable API development, distributed caching, and database optimization.
+
+Responsibilities:
+- Design, implement, and maintain scalable REST APIs and microservices using Python and FastAPI.
+- Design relational database schemas and optimize query performance in PostgreSQL and Redis.
+- Containerize backend services using Docker and orchestrate workloads on Kubernetes clusters.
+- Establish CI/CD pipelines and infrastructure as code using Terraform and AWS services.
+- Lead code reviews, mentor junior developers, and ensure compliance with high architectural and security standards.
+
+Required Skills & Qualifications:
+- 4+ years of professional backend engineering experience in Python (FastAPI, Django, or Flask).
+- Strong proficiency with SQL, PostgreSQL database modeling, and caching mechanisms like Redis.
+- Hands-on experience with Docker, Kubernetes, and AWS cloud environments (EC2, S3, RDS).
+- Familiarity with message brokers or task queues (Celery, Kafka, or RabbitMQ).
+- Solid foundation in software engineering best practices, automated testing (pytest), and Git workflows.

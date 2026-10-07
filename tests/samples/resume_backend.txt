@@ -1,0 +1,40 @@
+David Chen
+Email: david.chen@example.com | Phone: +1-555-432-8765
+LinkedIn: https://linkedin.com/in/davidchen-backend | GitHub: https://github.com/davidchen-dev
+
+PROFESSIONAL SUMMARY
+Results-driven Backend Software Engineer with 5+ years of experience designing and scaling distributed microservices, RESTful APIs, and cloud infrastructure. Specialized in Python, FastAPI, Django, PostgreSQL, and Docker. Successfully optimized high-throughput database queries reducing latency by 55% and architected event-driven pipelines handling 10M+ daily events.
+
+TECHNICAL SKILLS
+- Languages: Python, Go, SQL, Bash
+- Frameworks & Libraries: FastAPI, Django, Flask, SQLAlchemy, Celery, Pydantic
+- Databases: PostgreSQL, Redis, MongoDB, MySQL
+- Cloud & DevOps: AWS (EC2, S3, RDS, ECS), Docker, Kubernetes, CI/CD (GitHub Actions), Terraform
+- Tools: Git, Postman, Linux, Nginx, Prometheus, Grafana
+
+WORK EXPERIENCE
+Senior Backend Engineer | DataCore Systems
+August 2021 - Present
+- Architected and maintained 12 core microservices using FastAPI and PostgreSQL, serving 250,000 daily active users with 99.98% uptime.
+- Optimized slow relational database queries and indexed tables, cutting average API response times from 320ms to 95ms.
+- Engineered asynchronous worker queues using Celery and Redis to handle intensive background report generations.
+- Automated deployment workflows via GitHub Actions and Docker, reducing release cycle time by 60%.
+
+Backend Developer | Horizon FinTech
+June 2019 - July 2021
+- Developed secure payment processing endpoints in Django and integrated third-party banking APIs.
+- Designed database schemas and migrated legacy data to PostgreSQL with zero downtime.
+- Implemented comprehensive automated test suites using PyTest, achieving 92% code coverage.
+- Configured real-time monitoring and alerting dashboards using Prometheus and Grafana.
+
+PROJECTS
+- Scalable Event Streamer: Built an asynchronous distributed event processing system using Python, Kafka, and Redis.
+- Cloud Resource Monitor: Developed a CLI and REST API tool in Go and FastAPI to audit AWS cloud infrastructure spending.
+
+EDUCATION
+Bachelor of Science in Software Engineering
+Metropolitan State University, 2015 - 2019
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Application Developer (CKAD)

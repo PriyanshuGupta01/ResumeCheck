@@ -1,0 +1,20 @@
+Job Title: Data Scientist / ML Engineer
+Company: Cognitive AI Solutions
+Location: Remote
+
+About the Role:
+We are looking for a talented Data Scientist / Machine Learning Engineer to design, train, and deploy predictive models and natural language processing pipelines. You will partner with engineering teams to integrate machine learning solutions into our core enterprise product.
+
+Responsibilities:
+- Build and evaluate machine learning models (classification, regression, clustering) using scikit-learn and PyTorch.
+- Process and transform structured and unstructured text datasets for NLP workflows.
+- Partner with MLOps engineers to deploy containerized models using Docker on AWS cloud infrastructure.
+- Design and analyze A/B tests to measure model impact against key business KPIs.
+- Communicate technical insights, feature importance, and findings to cross-functional teams.
+
+Required Skills & Qualifications:
+- Master's or Bachelor's degree in Computer Science, Data Science, Statistics, or related technical field.
+- 3+ years of practical experience with Python, pandas, NumPy, and SQL.
+- Strong practical knowledge of scikit-learn, PyTorch, and NLP libraries.
+- Experience with Docker, Git version control, and cloud platforms like AWS (S3, SageMaker).
+- Familiarity with data visualization tools (Matplotlib, Seaborn, Tableau) and ML tracking tools like MLflow.

@@ -1,0 +1,37 @@
+Alex Morgan
+Email: alex.morgan@example.com | Phone: +1-555-019-2834
+LinkedIn: https://linkedin.com/in/alexmorgan-dev | GitHub: https://github.com/alexmorgan-dev
+
+PROFESSIONAL SUMMARY
+Dynamic and detail-oriented Frontend Engineer with 4+ years of hands-on experience building performant, accessible, and responsive single-page web applications. Proficient in React, JavaScript, TypeScript, and modern CSS architecture. Proven track record of boosting conversion by 28% through UX optimization and reducing page load times by 45%.
+
+TECHNICAL SKILLS
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Python
+- Frameworks & Libraries: React, Redux Toolkit, Next.js, Tailwind CSS, Material UI, Vite
+- Testing & Tools: Jest, Cypress, Git, Webpack, Postman, Figma, Docker
+
+WORK EXPERIENCE
+Senior Frontend Developer | NovaTech Solutions
+July 2022 - Present
+- Architected and deployed 5 responsive React web applications serving over 150,000 monthly active users.
+- Accelerated initial page load speeds by 42% through lazy loading, code-splitting, and memoization techniques.
+- Spearheaded the migration from legacy jQuery components to modern React 18 functional components with hooks.
+- Partnered with UI/UX designers in Figma to establish a centralized design system used across 8 engineering teams.
+
+Frontend Software Engineer | CloudBridge Labs
+June 2020 - June 2022
+- Engineered interactive dashboard visualizations using Recharts and D3.js, increasing daily user engagement by 35%.
+- Implemented robust unit and integration testing pipelines with Jest and React Testing Library, achieving 88% test coverage.
+- Optimized REST API data consumption and caching strategies with React Query and Axios.
+
+PROJECTS
+- DevPulse Analytics Platform: Full-stack developer portfolio project built with React, TypeScript, and Tailwind CSS. Managed state with Redux and integrated live GitHub API metrics.
+- ATS Resume Optimizer: Open-source web application helping candidates refine technical keywords and formatting.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University of Technology, 2016 - 2020
+
+CERTIFICATIONS
+- Meta Certified Front-End Developer
+- AWS Certified Cloud Practitioner

@@ -1,0 +1,42 @@
+# Python virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node & Frontend build
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Uploads & Temporary files
+uploads/
+*.log
+scratch/
+.system_generated/
+
+# SQLite Database & local storage
+*.db
+*.sqlite
+*.sqlite3
+backend/data/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
