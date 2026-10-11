@@ -6,15 +6,17 @@ Implements PRD F7 (AI Feedback) using Google Gemini API with fallback to basic m
 import json
 import os
 import re
+from pathlib import Path
 from typing import Any, Dict, List, Optional
 from dotenv import load_dotenv
 
-# Ensure .env is loaded
-load_dotenv()
+# Ensure .env is loaded from project root (parent of backend/)
+_project_root = Path(__file__).resolve().parent.parent
+load_dotenv(_project_root / ".env")
 
 # Read environment variables
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
 
 def _clean_json_text(text: str) -> str:
@@ -122,12 +124,13 @@ def generate_ai_feedback(
         missing_skills = missing_skills or []
 
         prompt = _build_prompt(resume_text, job_description, matched_skills, missing_skills)
-        primary_model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
-        candidate_models = [primary_model, "gemini-3.5-flash", "gemini-flash-lite-latest", "gemini-flash-latest"]
+        primary_model = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+        candidate_models = [primary_model, "gemini-3.6-flash", "gemini-3.5-flash-lite", "gemini-3.8-flash"]
         seen = set()
         models_to_try = [m for m in candidate_models if not (m in seen or seen.add(m))]
 
         import urllib.request
+        import urllib.error
         for model_name in models_to_try:
             try:
                 url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
@@ -144,7 +147,7 @@ def generate_ai_feedback(
                     headers={"Content-Type": "application/json"},
                     method="POST",
                 )
-                with urllib.request.urlopen(req, timeout=20) as r:
+                with urllib.request.urlopen(req, timeout=30) as r:
                     res_data = json.loads(r.read().decode("utf-8"))
                     candidates = res_data.get("candidates", [])
                     if candidates:
@@ -156,6 +159,14 @@ def generate_ai_feedback(
                             required_keys = ["summary", "strengths", "weaknesses", "missing_keywords", "improved_bullets"]
                             if all(k in parsed for k in required_keys):
                                 return parsed
+            except urllib.error.HTTPError as http_err:
+                error_body = http_err.read().decode("utf-8", errors="replace")
+                print(f"Model {model_name} HTTP {http_err.code} error: {error_body}")
+                # If it's an auth error (403/401), no point trying other models with the same key
+                if http_err.code in (401, 403):
+                    print("API key is invalid or unauthorized. Falling back to basic mode.")
+                    return None
+                continue
             except Exception as model_err:
                 print(f"Model {model_name} invocation failed: {model_err}")
                 continue
